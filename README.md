@@ -20,11 +20,11 @@
 <p align="left">
 <a href="https://codepen.io/joasia87" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="joasia87" height="30" width="40" /></a>
 <a href="https://dev.to/joannachadzynska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joanna chądzyńska" height="30" width="40" /></a>
-<a href="https://twitter.com/@a_chadzynka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@a_chadzynka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joanna-chądzyńska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joanna-chądzyńska" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10718969" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10718969" height="30" width="40" /></a>
+<a href="https://twitter.com/@a_chadzynka" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="@a_chadzynka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joanna-chądzyńska" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="joanna-chądzyńska" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10718969" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg" alt="10718969" height="30" width="40" /></a>
 <a href="https://codesandbox.com/joanna-chadzynska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="joanna-chadzynska" height="30" width="40" /></a>
-<a href="https://dribbble.com/JoannaChadzynska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="joanna chądzyńska" height="30" width="40" /></a>
+<a href="https://dribbble.com/JoannaChadzynska" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1532/1532541.svg" alt="joanna chądzyńska" height="30" width="40" /></a>
 <a href="https://medium.com/@jmalek87" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="joanna chądzyńska" height="30" width="40" /></a>
 </p>
 <hr/>
